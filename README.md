@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is **Eseniya (Esya)**, but I usually go by my nickname **diskria** ✨  
-I’m 28 y.o. Android developer & open-source enthusiast 💻🌿  
+I’m 27 y.o. Android developer & open-source enthusiast 💻🌿  
 
 ---
 
