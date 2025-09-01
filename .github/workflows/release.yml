@@ -35,4 +35,4 @@ jobs:
           distribution: temurin
 
       - name: Publish to GitHub Packages
-        run: ./gradlew publish --stacktrace
+        run: ./projektor/gradlew publish --stacktrace
