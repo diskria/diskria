@@ -25,7 +25,7 @@ jobs:
       - name: Extract Java version
         id: java_version
         run: |
-          JAVA_VERSION=$(toml get versions.java --toml-path gradle/libs.versions.toml | tr -d '"')
+          JAVA_VERSION=$(toml get versions.java --toml-path projektor/gradle/libs.versions.toml | tr -d '"')
           echo "java=$JAVA_VERSION" >> $GITHUB_OUTPUT
 
       - name: Set up JDK
