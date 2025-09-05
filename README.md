@@ -7,13 +7,67 @@
 ---
 
 My name is **Eseniya (Esya)**, but I usually go by my nickname **diskria** ✨  
-I’m 27 y.o. Android developer & open-source enthusiast 💻🌿  
+I’m 27 y.o. Android developer & open-source enthusiast 💻
 
 ---
 
 ### 💼 Experience
-- **Ex-[Alot.pro](https://alot.pro/)** — Android Developer *(~1 year)*
-- **Ex-[iMe](https://imem.app)** — Android Developer *(~6 years)*
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Role</th>
+    <th style="white-space: nowrap;">Years</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <div style="display:flex; align-items:center; justify-content:center; gap:6px;">
+        <div>
+          <b>iMe Messenger</b><br/>
+          <small>Telegram fork with 5M+ installs on Android</small>
+        </div>
+      </div>
+    </td>
+    <td align="center">Software Engineer II (Android)</td>
+    <td align="center">2019–2025</td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.iMe.android" target="_blank">
+        <img alt="Get it on Google Play"
+             src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+             height="60"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+  <td align="center">
+    <b>Alot.pro</b><br/>
+    <small>Freelance & remote work aggregator, 1M+ installs on Android</small>
+  </td>
+  <td align="center">Junior+ Android Developer</td>
+  <td align="center">2017–2018</td>
+  <td align="center">
+    <a href="https://play.google.com/store/apps/details?id=alot.pro.alotpro" target="_blank">
+      <img alt="Get it on Google Play"
+        src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+        height="60"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <b>Albatros</b><br/>
+    <small>Outsourcing / Indie projects</small>
+  </td>
+  <td align="center">Junior Android Developer</td>
+  <td align="center">2017</td>
+  <td align="center">
+    <a href="https://apkpure.com/ru/%D1%81%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%BE%D0%BA-%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B/ru.albatros.rocksimulator" target="_blank">
+      <img src="https://img.shields.io/badge/download%20from-APKPure-brightgreen" alt="APKPure"/>
+    </a>
+  </td>
+</tr>
+</table>
 
 ---
 
