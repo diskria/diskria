@@ -33,7 +33,7 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
     <td align="center" style="white-space:nowrap;">2019 – Aug 2025</td>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.iMe.android" target="_blank">
-        <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-black?logo=google-play&logoColor=white" alt="Google Play"/>
+        <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-5a8ebd?logo=google-play&logoColor=white&style=flat" alt="Google Play"/>
       </a>
     </td>
   </tr>
@@ -46,7 +46,7 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
   <td align="center">2017 – 2018</td>
   <td align="center">
     <a href="https://play.google.com/store/apps/details?id=alot.pro.alotpro" target="_blank">
-      <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-black?logo=google-play&logoColor=white" alt="Google Play"/>
+      <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-08bee0?logo=google-play&logoColor=white&style=flat" alt="Google Play"/>
     </a>
   </td>
 </tr>
