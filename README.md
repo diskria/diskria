@@ -1,4 +1,4 @@
-## diskria
+# Hi there, I'm diskria 👋
 
 [![aka: diskree](https://img.shields.io/badge/🌀_aka-diskree-blue)](#)
 [![aka: diskriminant](https://img.shields.io/badge/∑_aka-diskriminant-purple)](#)
