@@ -26,7 +26,7 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
       <sub>Telegram fork with 5M+ installs</sub>
     </td>
     <td align="center">Software Engineer II (Android)</td>
-    <td align="center">2019 – Aug 2025</td>
+    <td align="center">Nov 2019 – Aug 2025</td>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.iMe.android">
         <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-5a8ebd?logo=google-play&logoColor=white&style=flat" alt="Google Play"/>
@@ -39,7 +39,7 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
       <sub>Freelance aggregator with 1M+ installs</sub>
     </td>
     <td align="center">Junior+ Android Developer</td>
-    <td align="center">2017 – 2018</td>
+    <td align="center">2017 – Oct 2018</td>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=alot.pro.alotpro">
         <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-08bee0?logo=google-play&logoColor=white&style=flat" alt="Google Play"/>
