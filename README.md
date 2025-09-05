@@ -69,7 +69,7 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
     <div style="font-size:smaller; white-space:nowrap;">First Android projects</div>
   </td>
   <td align="center">Early Android Developer</td>
-  <td align="center">~2014 – ~2016</td>
+  <td align="center">2014 – 2016</td>
   <td align="center">
     <a href="https://github.com/diskria-legacy">
       <img src="https://img.shields.io/badge/organization-diskria--legacy-lightgrey?logo=github" alt="Legacy"/>
