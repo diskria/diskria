@@ -72,11 +72,12 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
 ---
 
 ### 🚀 Highlights
-- 🔍 Love digging into **legacy code** and making sense of it  
-- 💜 Passion for **Kotlin**  
-- ⚙️ Strong focus on **Gradle infrastructure** — writing custom build scripts and plugins  
-- 🤝 Dedicated to improving workflows and making life easier for **other developers and QA**  
-- 📦 My [Minecraft mods](https://modrinth.com/user/diskria/mods) have been downloaded **1M+ times**  
+- 🔍 Love digging into **legacy code** and making sense of it
+- 💜 Passion for **Kotlin**
+- ⚙️ Strong focus on **Gradle infrastructure** — writing custom build scripts and plugins
+- 🤝 Dedicated to improving workflows and making life easier for **other developers and QA**
+- 📱 Worked on Android apps that reached **millions of downloads**
+- ⛏️ My Minecraft mods on [Modrinth](https://modrinth.com/user/diskria/mods) have been downloaded **1M+ times**
 
 ---
 
