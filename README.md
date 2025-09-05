@@ -1,4 +1,8 @@
-## Hi there 👋
+## diskria
+
+[![aka: diskree](https://img.shields.io/badge/🌀_aka-diskree-blue)](#)
+[![aka: diskriminant](https://img.shields.io/badge/∑_aka-diskriminant-purple)](#)
+[![aka: podocodenick](https://img.shields.io/badge/👾_aka-podocodenick-green)](#)
 
 My name is **Eseniya (Esya)**, but I usually go by my nickname **diskria** ✨  
 I’m 27 y.o. Android developer & open-source enthusiast 💻🌿  
