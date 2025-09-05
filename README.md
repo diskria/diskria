@@ -17,7 +17,7 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
   <tr>
     <th>Company</th>
     <th>Role</th>
-    <th style="white-space: nowrap;">Years</th>
+    <th>Years</th>
     <th>Links</th>
   </tr>
   <tr>
@@ -25,12 +25,12 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
       <div style="display:flex; align-items:center; justify-content:center; gap:6px;">
         <div>
           <b>iMe Messenger</b><br/>
-          <small>Telegram fork with 5M+ installs on Android</small>
+          <small>Telegram fork with 5M+ installs</small>
         </div>
       </div>
     </td>
     <td align="center">Software Engineer II (Android)</td>
-    <td align="center">2019–2025</td>
+    <td align="center" style="white-space:nowrap;">2019 – Aug 2025</td>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.iMe.android" target="_blank">
         <img alt="Get it on Google Play"
@@ -42,10 +42,10 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
   <tr>
   <td align="center">
     <b>Alot.pro</b><br/>
-    <small>Freelance & remote work aggregator, 1M+ installs on Android</small>
+    <small>Freelance aggregator with 1M+ installs</small>
   </td>
   <td align="center">Junior+ Android Developer</td>
-  <td align="center">2017–2018</td>
+  <td align="center">2017 – 2018</td>
   <td align="center">
     <a href="https://play.google.com/store/apps/details?id=alot.pro.alotpro" target="_blank">
       <img alt="Get it on Google Play"
