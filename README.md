@@ -24,8 +24,8 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
     <td align="center">
       <div style="display:flex; align-items:center; justify-content:center; gap:6px;">
         <div>
-          <b>iMe Messenger</b><br/>
-          <small>Telegram fork with 5M+ installs</small>
+          <div><b>iMe Messenger</b></div>
+          <div style="font-size:smaller; white-space:nowrap;">Telegram fork with 5M+ installs</div>
         </div>
       </div>
     </td>
@@ -39,8 +39,8 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
   </tr>
   <tr>
   <td align="center">
-    <b>Alot.pro</b><br/>
-    <small>Freelance aggregator with 1M+ installs</small>
+    <div><b>Alot.pro</b></div>
+    <div style="font-size:smaller; white-space:nowrap;">Freelance aggregator with 1M+ installs</div>
   </td>
   <td align="center">Junior+ Android Developer</td>
   <td align="center">2017 – 2018</td>
@@ -52,8 +52,8 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
 </tr>
 <tr>
   <td align="center">
-    <b>Albatros</b><br/>
-    <small>Outsourcing / Indie projects</small>
+    <div><b>Albatros</b></div>
+    <div style="font-size:smaller; white-space:nowrap;">Outsourcing / Indie projects</div>
   </td>
   <td align="center">Junior Android Developer</td>
   <td align="center">2017</td>
@@ -65,8 +65,8 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
 </tr>
 <tr>
   <td align="center">
-    <b>Self-taught</b><br/>
-    <small>First Android projects</small>
+    <div><b>Self-taught</b></div>
+    <div style="font-size:smaller; white-space:nowrap;">First Android projects</div>
   </td>
   <td align="center">Early Android Developer</td>
   <td align="center">~2014 – ~2016</td>
