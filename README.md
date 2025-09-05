@@ -63,6 +63,15 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
     </a>
   </td>
 </tr>
+<tr>
+  <td align="center">
+    <b>Self-taught</b><br/>
+    <small>Puzzle games, helper apps for VK</small>
+  </td>
+  <td align="center">Early Android Developer</td>
+  <td align="center">~2014 – ~2016</td>
+  <td align="center">—</td>
+</tr>
 </table>
 
 ---
