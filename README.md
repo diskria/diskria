@@ -39,7 +39,7 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
       <sub>Freelance aggregator with 1M+ installs</sub>
     </td>
     <td align="center">Junior+ Android Developer</td>
-    <td align="center">2017 – Oct 2018</td>
+    <td align="center">Nov 2017 – Jun 2018</td>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=alot.pro.alotpro">
         <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-08bee0?logo=google-play&logoColor=white&style=flat" alt="Google Play"/>
@@ -48,11 +48,11 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
   </tr>
   <tr>
     <td align="center">
-      <b>Albatros</b><br/>
+      <b>Pareto Marketing</b><br/>
       <sub>Outsourcing / Indie projects</sub>
     </td>
     <td align="center">Junior Android Developer</td>
-    <td align="center">2017</td>
+    <td align="center">Nov 16 – Aug 2017</td>
     <td align="center">
       <a href="https://apkpure.com/ru/%D1%81%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%BE%D0%BA-%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B/ru.albatros.rocksimulator">
         <img src="https://img.shields.io/badge/Download%20on-APKPure-3DDC84?logo=android&logoColor=white" alt="APKPure"/>
