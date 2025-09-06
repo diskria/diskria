@@ -62,7 +62,7 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
   <tr>
     <td align="center">
       <b>Self-taught</b><br/>
-      <sub>First Android projects</sub>
+      <sub>First Android projects, reverse & AIDE coding</sub>
     </td>
     <td align="center">Early Android Developer</td>
     <td align="center">Jul 2015 – Oct 2017</td>
