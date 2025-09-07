@@ -78,13 +78,4 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
 
 ---
 
-### 🌱 Now
-Currently working on a **cross-modloader setup for Minecraft modding**  
-and updating my mods to support **all game versions**.  
-
-In parallel, I plan to dive deeper into the modern Android stack  
-(**Jetpack Compose, Coroutines/Flow, etc.**) and keep pushing my open-source journey 🌟
-
----
-
-⭐ Always open to collaboration and meaningful projects!  
+✨ Always excited about collaboration and meaningful projects!
