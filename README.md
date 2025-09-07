@@ -16,17 +16,18 @@
 ---
 
 My name is **Eseniya (Esya)**, but I usually go by my nickname **diskria** ✨  
-I’m 27 y.o. Android developer & open-source enthusiast 💻
+I’m an **Android Engineer** with a Kotlin-first mindset and a passion for open source 💻  
 
 ---
 
 ### 🚀 Highlights
-- 🔍 Love digging into **legacy code** and making sense of it
-- 💜 Passion for **Kotlin**
-- ⚙️ Strong focus on **Gradle infrastructure** — writing custom build scripts and plugins
-- 🤝 Dedicated to improving workflows and making life easier for **other developers and QA**
-- 📱 Worked on Android apps that reached **millions of downloads**
-- ⛏️ My Minecraft mods on [**Modrinth**](https://modrinth.com/user/diskria/mods) have been downloaded **1M+ times**
+- 🔍 **Legacy code whisperer** — turning messy old codebases into stable, maintainable products
+- 💜 **Kotlin-first mindset** — writing Kotlin since 2017, with modern Android practices
+- ⚙️ **Gradle & CI/CD wizard** — built infrastructure for multi-branded apps and custom plugins
+- 🤝 **Developer & QA enabler** — created debug tooling and release helpers that sped up testing and reduced friction
+- 📱 **Android apps with 5M+ installs** — real production experience at scale
+- ⛏️ **Minecraft mods with 1M+ downloads** — open-source projects used worldwide
+- ✨ Always open to collaboration and meaningful projects
 
 ---
 
@@ -34,10 +35,10 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
 - My projects are organized into **separate personal organizations** for better structure  
 - I maintain [**Projektor**](https://github.com/diskria/projektor) — a Gradle plugin that centralizes build logic and publishing workflows across all my projects  
 - I also maintain [**Manifest**](https://github.com/diskria/manifest), an AOSP-style repo manifest that keeps all my projects in sync
+- Scroll down to see my GitHub **organizations shelf**
+- And further below — a **showcase of pinned projects** from those orgs
 
 ---
-
-### 📚 Organizations Shelf
 
 <table align="center">
   <tr>
@@ -75,7 +76,3 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
     </td>
   </tr>
 </table>
-
----
-
-✨ Always excited about collaboration and meaningful projects!
