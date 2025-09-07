@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/diskria)
 [![Telegram](https://img.shields.io/badge/Telegram-@diskria-2CA5E0?logo=telegram)](https://t.me/diskria)
 [![Discord](https://img.shields.io/badge/Discord-@diskria-5865F2?logo=discord)](https://discord.com/users/798982035833880596)
-[![Modrinth](https://img.shields.io/badge/Modrinth-@diskria-1bd96a?logo=modrinth)](https://modrinth.com/user/diskria)
 
 ---
 
