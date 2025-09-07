@@ -25,7 +25,7 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
       <a href="https://imem.app"><b>iMe Messenger</b></a><br/>
       <sub>Telegram fork with 5M+ installs</sub>
     </td>
-    <td align="center">Software Engineer II (Android)</td>
+    <td align="center">Software Engineer (Android)</td>
     <td align="center">Nov 2019 – Aug 2025</td>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.iMe.android">
@@ -38,7 +38,7 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
       <a href="https://alot.pro/"><b>Alot.pro</b></a><br/>
       <sub>Freelance aggregator with 1M+ installs</sub>
     </td>
-    <td align="center">Junior+ Android Developer</td>
+    <td align="center">Android Developer</td>
     <td align="center">Nov 2017 – Jun 2018</td>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=alot.pro.alotpro">
@@ -64,7 +64,7 @@ I’m 27 y.o. Android developer & open-source enthusiast 💻
       <b>Self-taught</b><br/>
       <sub>First Android projects, reverse & AIDE coding</sub>
     </td>
-    <td align="center">Early Android Developer</td>
+    <td align="center">Android Enthusiast</td>
     <td align="center">Jul 2015 – Oct 2016</td>
     <td align="center">
       <a href="https://github.com/diskria-legacy">
