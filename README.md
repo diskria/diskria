@@ -6,6 +6,15 @@
 
 ---
 
+### 📬 Contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/diskria)
+[![Telegram](https://img.shields.io/badge/Telegram-@diskria-2CA5E0?logo=telegram)](https://t.me/diskria)
+[![Discord](https://img.shields.io/badge/Discord-@diskria-5865F2?logo=discord)](https://discord.com/users/798982035833880596)
+[![Modrinth](https://img.shields.io/badge/Modrinth-@diskria-1bd96a?logo=modrinth)](https://modrinth.com/user/diskria)
+
+---
+
 My name is **Eseniya (Esya)**, but I usually go by my nickname **diskria** ✨  
 I’m 27 y.o. Android developer & open-source enthusiast 💻
 
@@ -140,15 +149,6 @@ and updating my mods to support **all game versions**.
 
 In parallel, I plan to dive deeper into the modern Android stack  
 (**Jetpack Compose, Coroutines/Flow, etc.**) and keep pushing my open-source journey 🌟
-
----
-
-### 📬 Contacts
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/diskria)
-[![Telegram](https://img.shields.io/badge/Telegram-@diskria-2CA5E0?logo=telegram)](https://t.me/diskria)
-[![Discord](https://img.shields.io/badge/Discord-@diskria-5865F2?logo=discord)](https://discord.com/users/798982035833880596)
-[![Modrinth](https://img.shields.io/badge/Modrinth-@diskria-1bd96a?logo=modrinth)](https://modrinth.com/user/diskria)
 
 ---
 
