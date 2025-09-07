@@ -27,7 +27,7 @@ I’m an **Android Engineer** with a Kotlin-first mindset and a passion for open
 - 🤝 **Developer & QA enabler** — created debug tooling and release helpers that sped up testing and reduced friction
 - 📱 **Android apps with 5M+ installs** — real production experience at scale
 - ⛏️ **Minecraft mods with 1M+ downloads** — open-source projects used worldwide
-- ✨ Always open to collaboration and meaningful projects
+- ✨ Always open to collaboration and meaningful projects!
 
 ---
 
