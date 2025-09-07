@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/diskria)
 [![Telegram](https://img.shields.io/badge/Telegram-@diskria-2CA5E0?logo=telegram)](https://t.me/diskria)
 [![Discord](https://img.shields.io/badge/Discord-@diskria-5865F2?logo=discord)](https://discord.com/users/798982035833880596)
+[![Email](https://img.shields.io/badge/Email-diskria@proton.me-8B89CC?logo=protonmail&logoColor=white)](mailto:diskria@proton.me)
 
 ---
 
