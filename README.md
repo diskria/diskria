@@ -16,7 +16,6 @@
 
 ---
 
-My name is **Eseniya (Esya)**, but I usually go by my nickname **diskria** ✨  
 I’m an **Android Engineer** with a Kotlin-first mindset and a passion for open source 💻  
 
 ---
