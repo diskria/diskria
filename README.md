@@ -14,6 +14,71 @@ I’m an **Android Engineer** with a Kotlin-first mindset and a passion for open
 
 ---
 
+### 💼 Experience
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Role</th>
+    <th>Years</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://imem.app"><b>iMe Messenger</b></a><br/>
+      <sub>Telegram fork with 5M+ installs</sub>
+    </td>
+    <td align="center">Software Engineer (Android)</td>
+    <td align="center">Nov 2019 – Aug 2025</td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.iMe.android">
+        <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-5a8ebd?logo=google-play&logoColor=white&style=flat" alt="Google Play"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://alot.pro/"><b>Alot.pro</b></a><br/>
+      <sub>Freelance aggregator with 1M+ installs</sub>
+    </td>
+    <td align="center">Android Developer</td>
+    <td align="center">Nov 2017 – Jun 2018</td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=alot.pro.alotpro">
+        <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-08bee0?logo=google-play&logoColor=white&style=flat" alt="Google Play"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Pareto Marketing</b><br/>
+      <sub>Outsourcing / Indie projects</sub>
+    </td>
+    <td align="center">Junior Android Developer</td>
+    <td align="center">Nov 2016 – Aug 2017</td>
+    <td align="center">
+      <a href="https://apkpure.com/ru/%D1%81%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%80%D0%BE%D0%BA-%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B/ru.albatros.rocksimulator">
+        <img src="https://img.shields.io/badge/Download%20on-APKPure-3DDC84?logo=android&logoColor=white" alt="APKPure"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Self-taught</b><br/>
+      <sub>First Android projects, reverse & AIDE coding</sub>
+    </td>
+    <td align="center">Android Enthusiast</td>
+    <td align="center">Jul 2015 – Oct 2016</td>
+    <td align="center">
+      <a href="https://github.com/diskria-legacy">
+        <img src="https://img.shields.io/badge/organization-diskria--legacy-lightgrey?logo=github" alt="Legacy"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🚀 Highlights
 - 🔍 **Legacy code whisperer** — turning messy old codebases into stable, maintainable products
 - 💜 **Kotlin-first mindset** — writing Kotlin since 2017, with modern Android practices
