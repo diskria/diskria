@@ -1,15 +1,9 @@
 # Hi there, I'm diskria 👋
 
-[![aka: diskree](https://img.shields.io/badge/🌀_aka-diskree-blue)](#)
-[![aka: diskriminant](https://img.shields.io/badge/∑_aka-diskriminant-purple)](#)
-[![aka: podocodenick](https://img.shields.io/badge/👾_aka-podocodenick-green)](#)
-
 ---
 
 ### 📬 Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hire%20me-blue?logo=linkedin)](https://www.linkedin.com/in/diskria)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Work%20with%20me-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/diskria)
 [![Telegram](https://img.shields.io/badge/Telegram-@diskria-2CA5E0?logo=telegram)](https://t.me/diskria)
 [![Discord](https://img.shields.io/badge/Discord-@diskria-5865F2?logo=discord)](https://discord.com/users/798982035833880596)
 [![Email](https://img.shields.io/badge/Email-diskria@proton.me-8B89CC?logo=protonmail&logoColor=white)](mailto:diskria@proton.me)
