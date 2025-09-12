@@ -93,7 +93,7 @@ I’m an **Android Engineer** with a Kotlin-first mindset and a passion for open
 ### 📂 About my GitHub
 - My projects are organized into **separate personal organizations** for better structure  
 - I maintain [**Projektor**](https://github.com/diskria/projektor) — a Gradle plugin that centralizes build logic and publishing workflows across all my projects  
-- I also maintain [**Manifest**](https://github.com/diskria/manifest), an AOSP-style repo manifest that keeps all my projects in sync
+- I also maintain [**Spectrum**](https://github.com/diskria/spectrum), an AOSP-style repo manifest that keeps all my projects in sync
 - Scroll down to see my GitHub **organizations shelf**
 - And further below — a **showcase of pinned projects** from those orgs
 
