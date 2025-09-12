@@ -25,6 +25,15 @@ I’m an **Android Engineer** with a Kotlin-first mindset and a passion for open
   </tr>
   <tr>
     <td align="center">
+      <b>???</b><br/>
+      <sub>Looking for the right team</sub>
+    </td>
+    <td align="center">Android Platform Engineer</td>
+    <td align="center">Soon</td>
+    <td align="center">—</td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://imem.app"><b>iMe Messenger</b></a><br/>
       <sub>Telegram fork with 5M+ installs</sub>
     </td>
