@@ -26,9 +26,9 @@ I’m an **Android Engineer** with a Kotlin-first mindset and a passion for open
   <tr>
     <td align="center">
       <b>???</b><br/>
-      <sub>Looking for the right team</sub>
+      <sub>Looking for the right team (JetBrains, please 🥺)</sub>
     </td>
-    <td align="center">Android Platform Engineer</td>
+    <td align="center">???</td>
     <td align="center">Soon</td>
     <td align="center">—</td>
   </tr>
