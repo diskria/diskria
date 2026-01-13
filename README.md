@@ -25,10 +25,10 @@ I’m an **Android Engineer** with a Kotlin-first mindset and a passion for open
   </tr>
   <tr>
     <td align="center">
-      <b>???</b><br/>
-      <sub>Looking for the right team</sub>
+      <b>—</b><br/>
+      <sub>Seeking new opportunities</sub>
     </td>
-    <td align="center">???</td>
+    <td align="center">—</td>
     <td align="center">Soon</td>
     <td align="center">—</td>
   </tr>
