@@ -129,7 +129,7 @@ I’m an **Android Engineer** with a Kotlin-first mindset and a passion for open
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Recrafter" title="Recrafter">
-        <img src="https://github.com/Recrafter" width="80" height="80" alt="Recrafter"/>
+        <img src="https://github.com/Recrafter.png" width="80" height="80" alt="Recrafter"/>
       </a>
     </td>
     <td align="center" width="33%">
