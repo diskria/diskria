@@ -128,8 +128,8 @@ I’m an **Android Engineer** with a Kotlin-first mindset and a passion for open
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/AchieveToDo" title="AchieveToDo">
-        <img src="https://github.com/AchieveToDo.png" width="80" height="80" alt="AchieveToDo"/>
+      <a href="https://github.com/Recrafter" title="Recrafter">
+        <img src="https://github.com/Recrafter" width="80" height="80" alt="Recrafter"/>
       </a>
     </td>
     <td align="center" width="33%">
