@@ -2,18 +2,6 @@
 
 ---
 
-### 📬 Contacts
-
-[![Telegram](https://img.shields.io/badge/Telegram-@diskria-2CA5E0?logo=telegram)](https://t.me/diskria)
-[![Discord](https://img.shields.io/badge/Discord-@diskria-5865F2?logo=discord)](https://discord.com/users/798982035833880596)
-[![Email](https://img.shields.io/badge/Email-diskria@proton.me-8B89CC?logo=protonmail&logoColor=white)](mailto:diskria@proton.me)
-
----
-
-I’m an **Android Engineer** with a Kotlin-first mindset and a passion for open source 💻  
-
----
-
 ### 💼 Experience
 
 <table>
@@ -85,17 +73,6 @@ I’m an **Android Engineer** with a Kotlin-first mindset and a passion for open
     </td>
   </tr>
 </table>
-
----
-
-### 🚀 Highlights
-- 🔍 **Legacy code whisperer** — turning messy old codebases into stable, maintainable products
-- 💜 **Kotlin-first mindset** — writing Kotlin since 2017, with modern Android practices
-- ⚙️ **Gradle & CI/CD wizard** — built infrastructure for multi-branded apps and custom plugins
-- 🤝 **Developer & QA enabler** — created debug tooling and release helpers that sped up testing and reduced friction
-- 📱 **Android apps with 5M+ installs** — real production experience at scale
-- ⛏️ **Minecraft mods with 1M+ downloads** — open-source projects used worldwide
-- ✨ Always open to collaboration and meaningful projects!
 
 ---
 
