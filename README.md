@@ -32,5 +32,5 @@ I am seeking to join a **progressive, queer-friendly international team** or Web
 * **Compensation:** Fully comfortable with and preferring crypto payouts (USDT / USDC).
 * **Communication:** Fully proficient in text-based asynchronous workflows (English PR reviews, technical documentation, Slack/Discord). 
 
-📬 **Reach out to me:** diskria@proton.me | Telegram: [@air21ksid7](https://t.me/air21ksid7)
+📬 **Reach out to me:** diskria@proton.me | Telegram: [@air21ksid7](https://t.me/air21ksid7) | Discord: [@diskria](https://discord.com/users/798982035833880596)
 
