@@ -13,7 +13,7 @@ To keep things clean and modular, my GitHub presence is structured as a decentra
 *   [diskria-tooling](https://github.com/diskria-tooling) — Custom developer workflows, build automation scripts, and productivity tools.
 *   [diskria-libs](https://github.com/diskria-libs) — Open-source libraries, meta-programming utilities, and compiler plugins.
 *   [diskria-android](https://github.com/diskria-android) & [platform](https://github.com/diskria-android-platform) — Low-level Android modules, LSPosed/Xposed integrations, and platform-level infrastructure.
-*   [diskria-minecraft](https://github.com) & [platform](https://github.com/diskria-minecraft-platform) — High-performance game modifications, bytecode injections (Sponge Mixins), and custom Gradle plugins (with over 2M+ downloads worldwide).
+*   [diskria-minecraft](https://github.com/diskria-minecraft) & [platform](https://github.com/diskria-minecraft-platform) — High-performance game modifications, bytecode injections (Sponge Mixins), and custom Gradle plugins (with over 2M+ downloads worldwide).
   
 📌 **Note:** My most critical, highly active, and impactful projects are pinned directly below on this profile, ranked by their architectural importance and current activity level.
 
