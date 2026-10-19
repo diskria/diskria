@@ -1,8 +1,10 @@
 # Hi there, I am Diskria! 👋
 
-I am a 28-year-old software engineer with over 10 years in the JVM ecosystem. I started with Java, moved to Android, and later transitioned into DevEx. Currently, I focus on developing metaprogramming libraries — including DSL wrappers, KSP plugins, Gradle plugins, IDEA plugins, and building meta-tooling for everything. With all this accumulated knowledge, I am planning a return to Android soon to develop code generation for Android Vector 2.0 (formerly LSPosed/Xposed), followed by Kotlin Multiplatform (KMP) projects. I am currently open to Android Platform Engineering roles.
+Kotlin Tooling & Compiler enthusiast. Open to work / Looking for compiler engineering roles
 
 **Reach out to me:** diskria@proton.me | Telegram: [@air21ksid7](https://t.me/air21ksid7) | Discord: [@diskria](https://discord.com/users/798982035833880596)
+
+I am a 28-year-old software engineer with over 10 years in the JVM ecosystem. I started with Java, moved to Android, and later transitioned into DevEx. Currently, I focus on developing metaprogramming libraries — including KSP plugins, K2 compiler plugins, Gradle plugins, IDEA plugins, and building meta-tooling for everything. 
 
 ---
 
